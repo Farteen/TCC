@@ -1,0 +1,9 @@
+package: github.com/Farteen/TCC
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.2
+- package: github.com/fatih/structs
+  version: v1.0
+- package: github.com/uber-go/zap
+  version: v1.8.0
+- package: github.com/gin-contrib/static
